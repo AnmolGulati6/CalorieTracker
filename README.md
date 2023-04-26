@@ -4,4 +4,6 @@ A Python program that allows users to input their daily meals and track calorie 
 # What I Learned
 Tkinter module to create GUI applications in Python
 
-Read data from a CSV file into a dictionary using the csv module
+Download and Parse data
+
+Parse CSV files
